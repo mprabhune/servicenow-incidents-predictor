@@ -1,0 +1,5 @@
+
+{
+  "name": "ServiceNow Incidents Predictor",
+  "description": "Predictive SRE analysis using DeepSeek R1 for ServiceNow incident data."
+}
